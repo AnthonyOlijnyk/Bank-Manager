@@ -9,7 +9,7 @@ This Java application has two main functions:
 2. Allow admins to manage the users.
 
 
-The application takes advantage of the state design pattern in order to increase cohesion while minimizing coupling. It also allows for the easy access of more levels in the future due to it's modularization. See the UML class diagram below:
+The application takes advantage of the state design pattern in order to increase cohesion while minimizing coupling. It also allows for the easy access of more levels in the future due to it's modularization. See the UML class diagram below (click on the image for a better view):
 
 
 ![](images/umlclass.png)
